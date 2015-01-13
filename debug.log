@@ -1,0 +1,454 @@
+************************************************************
+        VACMAN Controller Library test program.
+              You need a demo token
+************************************************************
+Time settings : 
+
+  Local Time : 12/20/2014 23:37:38
+  Gmt Time   : 12/20/2014 22:37:38
+
+
+
+VC Test 1 AAL2DPXInit DPX Import Demo Token
+   AAL2DPXInit returned: -20 - [ ERROR ]  Cannot open file 
+VC Test 1 DPX Import Demo Token : FAILED
+************************************************************
+        VACMAN Controller Library test program.
+              You need a demo token
+************************************************************
+Time settings : 
+
+  Local Time : 12/20/2014 23:38:26
+  Gmt Time   : 12/20/2014 22:38:26
+
+
+
+VC Test 1 AAL2DPXGetTokenBlobs DPX Import Demo Token
+VC Test 1 AAL2DPXGetTokenBlobs DPX Import Demo Token : OK
+VC Test 2 AAL2GenPasswordEx  
+VC Test 2 AAL2GenPasswordEx   : OK
+  DEMO APPLI 1:
+  Enter Digipass password: ************************************************************
+        VACMAN Controller Library test program.
+              You need a demo token
+************************************************************
+Time settings : 
+
+  Local Time : 12/21/2014 12:31:30
+  Gmt Time   : 12/21/2014 11:31:30
+
+
+
+VC Test 1 AAL2DPXGetTokenBlobs DPX Import Demo Token
+VC Test 1 AAL2DPXGetTokenBlobs DPX Import Demo Token : OK
+VC Test 2 AAL2GenPasswordEx  
+VC Test 2 AAL2GenPasswordEx   : OK
+  DEMO APPLI 1:
+  Enter Digipass password: ************************************************************
+        VACMAN Controller Library test program.
+              You need a demo token
+************************************************************
+Time settings : 
+
+  Local Time : 12/21/2014 14:28:11
+  Gmt Time   : 12/21/2014 13:28:11
+
+
+
+VC Test 1 AAL2DPXGetTokenBlobs DPX Import Demo Token
+VC Test 1 AAL2DPXGetTokenBlobs DPX Import Demo Token : OK
+VC Test 2 AAL2GenPasswordEx  
+VC Test 2 AAL2GenPasswordEx   : OK
+  DEMO APPLI 1:
+  Enter Digipass password: ************************************************************
+        VACMAN Controller Library test program.
+              You need a demo token
+************************************************************
+Time settings : 
+
+  Local Time : 12/21/2014 14:28:16
+  Gmt Time   : 12/21/2014 13:28:16
+
+
+
+VC Test 1 AAL2DPXGetTokenBlobs DPX Import Demo Token
+VC Test 1 AAL2DPXGetTokenBlobs DPX Import Demo Token : OK
+VC Test 2 AAL2GenPasswordEx  
+VC Test 2 AAL2GenPasswordEx   : OK
+  DEMO APPLI 1:
+  Enter Digipass password: ************************************************************
+        VACMAN Controller Library test program.
+              You need a demo token
+************************************************************
+Time settings : 
+
+  Local Time : 12/21/2014 14:28:32
+  Gmt Time   : 12/21/2014 13:28:32
+
+
+
+VC Test 1 AAL2DPXGetTokenBlobs DPX Import Demo Token
+VC Test 1 AAL2DPXGetTokenBlobs DPX Import Demo Token : OK
+VC Test 2 AAL2GenPasswordEx  
+VC Test 2 AAL2GenPasswordEx   : OK
+  DEMO APPLI 1:
+  Enter Digipass password: ************************************************************
+        VACMAN Controller Library test program.
+              You need a demo token
+************************************************************
+Time settings : 
+
+  Local Time : 12/21/2014 14:34:33
+  Gmt Time   : 12/21/2014 13:34:33
+
+
+
+VC Test 1 AAL2DPXGetTokenBlobs DPX Import Demo Token
+VC Test 1 AAL2DPXGetTokenBlobs DPX Import Demo Token : OK
+VC Test 2 AAL2GenPasswordEx  
+VC Test 2 AAL2GenPasswordEx   : OK
+  DEMO APPLI 1:
+  Enter Digipass password: 
+VC Test 3 AAL2VerifyPasswordEx Validate a Response-Only OTP
+   AAL2VerifyPasswordEx returned: 1 - Validation Failed
+VC Test 3 Validate a Response-Only OTP : FAILED
+
+VC Test 4 AAL2VerifyPasswordEx Validate a Response-Only OTP
+   AAL2VerifyPasswordEx returned: 1 - Validation Failed
+VC Test 4 Validate a Response-Only OTP : FAILED
+
+  DEMO APPLI 2:
+  Data field 1: 11111
+  Data field 2: 22222
+  Data field 3: 33333
+  Enter Digipass signature: ************************************************************
+        VACMAN Controller Library test program.
+              You need a demo token
+************************************************************
+Time settings : 
+
+  Local Time : 12/21/2014 15:19:40
+  Gmt Time   : 12/21/2014 14:19:40
+
+
+
+VC Test 1 AAL2DPXGetTokenBlobs DPX Import Demo Token
+VC Test 1 AAL2DPXGetTokenBlobs DPX Import Demo Token : OK
+VC Test 2 AAL2GenPasswordEx  
+VC Test 2 AAL2GenPasswordEx   : OK
+  DEMO APPLI 1:
+  Enter Digipass password: ************************************************************
+        VACMAN Controller Library test program.
+              You need a demo token
+************************************************************
+Time settings : 
+
+  Local Time : 12/21/2014 17:20:05
+  Gmt Time   : 12/21/2014 16:20:05
+
+
+
+VC Test 1 AAL2DPXGetTokenBlobs DPX Import Demo Token
+VC Test 1 AAL2DPXGetTokenBlobs DPX Import Demo Token : OK
+VC Test 2 AAL2GenPasswordEx  
+VC Test 2 AAL2GenPasswordEx   : OK
+  DEMO APPLI 1:
+  Enter Digipass password: 
+VC Test 3 AAL2VerifyPasswordEx Validate a Response-Only OTP
+   AAL2VerifyPasswordEx returned: 1 - Validation Failed
+VC Test 3 Validate a Response-Only OTP : FAILED
+
+VC Test 4 AAL2VerifyPasswordEx Validate a Response-Only OTP
+   AAL2VerifyPasswordEx returned: 1 - Validation Failed
+VC Test 4 Validate a Response-Only OTP : FAILED
+
+  DEMO APPLI 2:
+  Data field 1: 11111
+  Data field 2: 22222
+  Data field 3: 33333
+  Enter Digipass signature: ************************************************************
+        authentification forte a deux vacteur .
+       Realiser par M@hdiben ohtmen && Med amine jridi
+******Encadrer par : Mr Marouene Boubakri*******************
+Time settings : 
+
+  Local Time : 12/21/2014 17:25:53
+  Gmt Time   : 12/21/2014 16:25:53
+
+
+************************************************************
+        Authentification forte a deux vacteur .
+       Realiser par M@hdiben ohtmen && Med amine jridi
+******Encadrer par : Mr Marouene Boubakri*******************
+Time settings : 
+
+  Local Time : 12/21/2014 18:23:35
+  Gmt Time   : 12/21/2014 17:23:35
+
+
+
+VC Test 1 AAL2DPXGetTokenBlobs DPX Import Demo Token
+VC Test 1 AAL2DPXGetTokenBlobs DPX Import Demo Token : OK
+VC Test 2 AAL2GenPasswordEx  
+VC Test 2 AAL2GenPasswordEx   : OK
+  DEMO APPLI 1:
+  Enter Digipass password: ************************************************************
+        Authentification forte a deux vacteur .
+       Realiser par M@hdiben ohtmen && Med amine jridi
+**************Encadrer par : Mr Marouene Boubakri************
+Time settings : 
+
+  Local Time : 12/21/2014 18:46:40
+  Gmt Time   : 12/21/2014 17:46:40
+
+
+
+VC Test 1 AAL2DPXGetTokenBlobs DPX Import Demo Token
+VC Test 1 AAL2DPXGetTokenBlobs DPX Import Demo Token : OK
+VC Test 2 AAL2GenPasswordEx  
+VC Test 2 AAL2GenPasswordEx   : OK
+  DEMO APPLI 1:
+  Enter Digipass password: 
+VC Test 3 AAL2VerifyPasswordEx Validate a Response-Only OTP
+   AAL2VerifyPasswordEx returned: -202 - Response Too Small
+VC Test 3 Validate a Response-Only OTP : FAILED
+
+VC Test 4 AAL2VerifyPasswordEx Validate a Response-Only OTP
+   AAL2VerifyPasswordEx returned: -202 - Response Too Small
+VC Test 4 Validate a Response-Only OTP : FAILED
+************************************************************
+        Authentification forte a deux vacteur .
+       Realiser par M@hdiben ohtmen && Med amine jridi
+**************Encadrer par : Mr Marouene Boubakri************
+Time settings : 
+
+  Local Time : 12/21/2014 18:46:53
+  Gmt Time   : 12/21/2014 17:46:53
+
+
+
+VC Test 1 AAL2DPXGetTokenBlobs DPX Import Demo Token
+VC Test 1 AAL2DPXGetTokenBlobs DPX Import Demo Token : OK
+VC Test 2 AAL2GenPasswordEx  
+VC Test 2 AAL2GenPasswordEx   : OK
+  DEMO APPLI 1:
+  Enter Digipass password: 
+VC Test 3 AAL2VerifyPasswordEx Validate a Response-Only OTP
+   AAL2VerifyPasswordEx returned: -202 - Response Too Small
+VC Test 3 Validate a Response-Only OTP : FAILED
+
+VC Test 4 AAL2VerifyPasswordEx Validate a Response-Only OTP
+   AAL2VerifyPasswordEx returned: -202 - Response Too Small
+VC Test 4 Validate a Response-Only OTP : FAILED
+************************************************************
+        Authentification forte a deux vacteur .
+       Realiser par M@hdiben ohtmen && Med amine jridi
+**************Encadrer par : Mr Marouene Boubakri************
+Time settings : 
+
+  Local Time : 12/22/2014 12:41:22
+  Gmt Time   : 12/22/2014 11:41:22
+
+
+
+VC Test 1 AAL2DPXGetTokenBlobs DPX Import Demo Token
+VC Test 1 AAL2DPXGetTokenBlobs DPX Import Demo Token : OK
+VC Test 2 AAL2GenPasswordEx  
+VC Test 2 AAL2GenPasswordEx   : OK
+  DEMO APPLI 1:
+  Enter Digipass password: 
+VC Test 3 AAL2VerifyPasswordEx Validate a Response-Only OTP
+   AAL2VerifyPasswordEx returned: -202 - Response Too Small
+VC Test 3 Validate a Response-Only OTP : FAILED
+
+VC Test 4 AAL2VerifyPasswordEx Validate a Response-Only OTP
+   AAL2VerifyPasswordEx returned: -202 - Response Too Small
+VC Test 4 Validate a Response-Only OTP : FAILED
+
+  DEMO APPLI 2:
+  Data field 1: 11111
+  Data field 2: 22222
+  Data field 3: 33333
+  Enter Digipass signature: 
+VC Test 5 AAL2VerifySignatureEx Validate a signature
+   AAL2VerifySignatureEx returned: -202 - Response Too Small
+VC Test 5 Validate a signature : FAILED
+
+  DEMO APPLI 3:
+  Enter Digipass password for challenge 5183: ************************************************************
+        Authentification forte a deux vacteur .
+       Realiser par M@hdiben ohtmen && Med amine jridi
+**************Encadrer par : Mr Marouene Boubakri************
+Time settings : 
+
+  Local Time : 12/23/2014 11:49:06
+  Gmt Time   : 12/23/2014 10:49:06
+
+
+
+VC Test 1 AAL2DPXGetTokenBlobs DPX Import Demo Token
+VC Test 1 AAL2DPXGetTokenBlobs DPX Import Demo Token : OK
+VC Test 2 AAL2GenPasswordEx  
+VC Test 2 AAL2GenPasswordEx   : OK
+  DEMO APPLI 1:
+  Enter Digipass password: 
+VC Test 3 AAL2VerifyPasswordEx Validate a Response-Only OTP
+   AAL2VerifyPasswordEx returned: -202 - Response Too Small
+VC Test 3 Validate a Response-Only OTP : FAILED
+
+VC Test 4 AAL2VerifyPasswordEx Validate a Response-Only OTP
+   AAL2VerifyPasswordEx returned: -202 - Response Too Small
+VC Test 4 Validate a Response-Only OTP : FAILED
+
+  DEMO APPLI 2:
+  Data field 1: 11111
+  Data field 2: 22222
+  Data field 3: 33333
+  Enter Digipass signature: 
+VC Test 5 AAL2VerifySignatureEx Validate a signature
+   AAL2VerifySignatureEx returned: -202 - Response Too Small
+VC Test 5 Validate a signature : FAILED
+
+  DEMO APPLI 3:
+  Enter Digipass password for challenge 7655: 
+VC Test 6 AAL2VerifyPasswordEx Validate a C/R OTP
+   AAL2VerifyPasswordEx returned: -202 - Response Too Small
+VC Test 6 Validate a C/R OTP : FAILED
+
+
+  Successful Tests - 2
+  Failed     Tests - 4
+
+************************************************************
+        Authentification forte a deux vacteur .
+       Realiser par M@hdiben ohtmen && Med amine jridi
+**************Encadrer par : Mr Marouene Boubakri************
+Time settings : 
+
+  Local Time : 12/24/2014 20:40:34
+  Gmt Time   : 12/24/2014 19:40:34
+
+
+
+VC Test 1 AAL2DPXGetTokenBlobs DPX Import Demo Token
+VC Test 1 AAL2DPXGetTokenBlobs DPX Import Demo Token : OK
+VC Test 2 AAL2GenPasswordEx  
+VC Test 2 AAL2GenPasswordEx   : OK
+  DEMO APPLI 1:
+  Enter Digipass password: ************************************************************
+        Authentification forte a deux vacteur .
+       Realiser par M@hdiben ohtmen && Med amine jridi
+**************Encadrer par : Mr Marouene Boubakri************
+Time settings : 
+
+  Local Time : 12/24/2014 20:40:56
+  Gmt Time   : 12/24/2014 19:40:56
+
+
+
+VC Test 1 AAL2DPXGetTokenBlobs DPX Import Demo Token
+VC Test 1 AAL2DPXGetTokenBlobs DPX Import Demo Token : OK
+VC Test 2 AAL2GenPasswordEx  
+VC Test 2 AAL2GenPasswordEx   : OK
+  DEMO APPLI 1:
+  Enter Digipass password: ************************************************************
+        Authentification forte a deux vacteur .
+       Realiser par M@hdiben ohtmen && Med amine jridi
+**************Encadrer par : Mr Marouene Boubakri************
+Time settings : 
+
+  Local Time : 12/24/2014 20:42:00
+  Gmt Time   : 12/24/2014 19:42:00
+
+
+
+VC Test 1 AAL2DPXGetTokenBlobs DPX Import Demo Token
+VC Test 1 AAL2DPXGetTokenBlobs DPX Import Demo Token : OK
+VC Test 2 AAL2GenPasswordEx  
+VC Test 2 AAL2GenPasswordEx   : OK
+  DEMO APPLI 1:
+  Enter Digipass password: 
+VC Test 3 AAL2VerifyPasswordEx Validate a Response-Only OTP
+VC Test 3 AAL2VerifyPasswordEx Validate a Response-Only OTP : OK
+
+VC Test 4 AAL2VerifyPasswordEx Validate a Response-Only OTP
+   AAL2VerifyPasswordEx returned: 201 - Code Replay Attempt
+VC Test 4 Validate a Response-Only OTP : FAILED
+
+  DEMO APPLI 2:
+  Data field 1: 11111
+  Data field 2: 22222
+  Data field 3: 33333
+  Enter Digipass signature: 
+VC Test 5 AAL2VerifySignatureEx Validate a signature
+VC Test 5 AAL2VerifySignatureEx Validate a signature : OK
+
+  DEMO APPLI 3:
+  Enter Digipass password for challenge 4471: 
+VC Test 6 AAL2VerifyPasswordEx Validate a C/R OTP
+VC Test 6 AAL2VerifyPasswordEx Validate a C/R OTP : OK
+
+
+  Successful Tests - 5
+  Failed     Tests - 1
+
+************************************************************
+        Authentification forte a deux vacteur .
+       Realiser par M@hdiben ohtmen && Med amine jridi
+**************Encadrer par : Mr Marouene Boubakri************
+Time settings : 
+
+  Local Time : 12/24/2014 21:33:28
+  Gmt Time   : 12/24/2014 20:33:28
+
+
+
+VC Test 1 AAL2DPXGetTokenBlobs DPX Import Demo Token
+VC Test 1 AAL2DPXGetTokenBlobs DPX Import Demo Token : OK
+VC Test 2 AAL2GenPasswordEx  
+VC Test 2 AAL2GenPasswordEx   : OK
+  DEMO APPLI 1:
+  Enter Digipass password: ************************************************************
+        Authentification forte a deux vacteur .
+       Realiser par M@hdiben ohtmen && Med amine jridi
+**************Encadrer par : Mr Marouene Boubakri************
+Time settings : 
+
+  Local Time : 12/29/2014 01:31:55
+  Gmt Time   : 12/29/2014 00:31:55
+
+
+
+VC Test 1 AAL2DPXGetTokenBlobs DPX Import Demo Token
+VC Test 1 AAL2DPXGetTokenBlobs DPX Import Demo Token : OK
+VC Test 2 AAL2GenPasswordEx  
+VC Test 2 AAL2GenPasswordEx   : OK
+  DEMO APPLI 1:
+  Enter Digipass password: 
+VC Test 3 AAL2VerifyPasswordEx Validate a Response-Only OTP
+   AAL2VerifyPasswordEx returned: -205 - Response Not Decimal
+VC Test 3 Validate a Response-Only OTP : FAILED
+
+VC Test 4 AAL2VerifyPasswordEx Validate a Response-Only OTP
+   AAL2VerifyPasswordEx returned: -205 - Response Not Decimal
+VC Test 4 Validate a Response-Only OTP : FAILED
+
+  DEMO APPLI 2:
+  Data field 1: 11111
+  Data field 2: 22222
+  Data field 3: 33333
+  Enter Digipass signature: 
+VC Test 5 AAL2VerifySignatureEx Validate a signature
+   AAL2VerifySignatureEx returned: -205 - Response Not Decimal
+VC Test 5 Validate a signature : FAILED
+
+  DEMO APPLI 3:
+  Enter Digipass password for challenge 9344: 
+VC Test 6 AAL2VerifyPasswordEx Validate a C/R OTP
+   AAL2VerifyPasswordEx returned: -205 - Response Not Decimal
+VC Test 6 Validate a C/R OTP : FAILED
+
+
+  Successful Tests - 2
+  Failed     Tests - 4
+
